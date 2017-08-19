@@ -33,3 +33,8 @@
 **4. EmailClass.png:**
 
       Email Data used for classification using Machine Learning Algorithm.
+
+**5. Result.png:**
+
+      Find the Accuracy of an Algorithm based on the Email Classification !
+
