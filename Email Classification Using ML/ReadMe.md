@@ -30,6 +30,6 @@
       It contains all the Machine Learning and text classification methods to classify the email.
       Find the accuracy score of the Email Classification
       
-**4. EmailClass.csv:**
+**4. EmailClass.png:**
 
       Email Data used for classification using Machine Learning Algorithm.
