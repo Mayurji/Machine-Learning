@@ -9,4 +9,7 @@ SVR on Linear Models and Non Linear Model using Kernel trick. There are differen
 * Sigmoid
 
 Each of the kernel has its own significance.
-[SVR,"http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html"]
+
+**Find the below URL to know more about SVR :**
+
+"http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html"
