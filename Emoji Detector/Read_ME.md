@@ -15,4 +15,4 @@
 
 #### Reference:
 
-     [Unicode Reference](www.unicode.org/emoji/charts/full-emoji-list.html)
+   [Unicode Reference](www.unicode.org/emoji/charts/full-emoji-list.html)
