@@ -1,7 +1,7 @@
 ## EMOJI DETECTOR
 
-### The Idea behind this script is to avail people an easier access to emoji and its meaning for sentiment Analysis.
-### Here, We are able to detect around 2623 emoji symbol.And script will update automatically if more emoji's are updated.
+#### The Idea behind this script is to avail people an easier access to emoji and its meaning for sentiment Analysis.
+#### Here, We are able to detect around 2623 emoji symbol.And script will update automatically if more emoji's are updated.
 
 #### Tools and Techniques:
 
