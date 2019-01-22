@@ -2,6 +2,7 @@
 
 ### Machine Learning refers to a program which is capable of learning itself and improve itself over a period of time and experience with different data point.
 
-### We'll be looking at the all the possible problem be it supervisied or unsupervisied problem and explore more everyday!
+### Emoji Detector using WebScraping with Python:
 
-## NOTE: Find the python program along with dataset based on the commit statement !
+    Data Scraping is one of the key techniques in creating dataset, find the web scraping technique using beautifulsoup in "Emoji Detector" project, which extracts the meaning of the emoji's from http://www.unicode.org/emoji/charts/full-emoji-list.html.
+
