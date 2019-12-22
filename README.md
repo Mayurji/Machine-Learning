@@ -1,6 +1,6 @@
 ### Machine-Learning
 
-    Machine Learning refers to a program which is capable of learning itself and 
+    Machine Learning refers to a program which is capable of learning and 
     improve itself over a period of time and experience with different data point.
 
 ### Emoji Detector using WebScraping with Python:
@@ -12,9 +12,9 @@
     
  ### Spam Mail Classification Using Google's Gmail API and Machine Learning:
  
-    Nowadays it is very common to get spam email and google has its own algorithm which 
+    It is very common to get spam email and Google has its own algorithm which 
     segregates the spam mail and moves it to Spam Folder, but after developing a trained 
-    model which learns from the spam mails from my spam folder and applies the trained 
+    model which learns from the spam mails from my spam folder and applying the trained 
     model on the other folder like input, primary, updates and moves the mails which are 
     classified as spam.
 
