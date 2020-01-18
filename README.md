@@ -1,20 +1,18 @@
 ### Machine-Learning
 
-    Machine Learning refers to a program which is capable of learning and 
-    improve itself over a period of time and experience with different data point.
+   Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.    
 
-### Emoji Detector using WebScraping with Python:
+**Things to learn:**
 
-    Data Scraping is one of the key techniques in creating dataset, find the web scraping 
-    technique using beautifulsoup in "Emoji Detector" project, which extracts the meaning
-    of the emoji's from http://www.unicode.org/emoji/charts/full-emoji-list.html.
-    
-    
- ### Spam Mail Classification Using Google's Gmail API and Machine Learning:
- 
-    It is very common to get spam email and Google has its own algorithm which 
-    segregates the spam mail and moves it to Spam Folder, but after developing a trained 
-    model which learns from the spam mails from my spam folder and applying the trained 
-    model on the other folder like input, primary, updates and moves the mails which are 
-    classified as spam.
+* What is Machine Learning ?
+* What is Dataset ?
+* What is Supervised and Unsupervised Learning ?
+* What is Classification and Regression ?
+* What is Clustering ?
+* What is Bias and Variance ?
+* What is Underfit and Overfit ?
+* What is Feature Scaling ?
+* What is Dimensionality Reduction ?
+* Different types of Machine Learning Algorithms ?
+* Spam Mail Classification Using Google's Gmail API and Machine Learning
 
