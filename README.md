@@ -14,5 +14,7 @@
 * What is Feature Scaling ?
 * What is Dimensionality Reduction ?
 * Different types of Machine Learning Algorithms ?
+* Linear regression
+* Decision Tree
 * Spam Mail Classification Using Google's Gmail API and Machine Learning
 
