@@ -1,7 +1,7 @@
 
 ## Statistics and Pandas
 
-    Machine Learning is incomplete without statistics. Henceforth, the notebook "Pandas and Thinkstat" contains statistics 
+   >Machine Learning is incomplete without statistics. Henceforth, the notebook "Pandas and Thinkstat" contains statistics 
     implemented with Python.
 
 ### Topics covered
